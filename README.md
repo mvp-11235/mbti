@@ -2,7 +2,7 @@
 ### 기본 소개
 - 음료수 성격 테스트 입니다. <br>
 - 사이트 링크: https://schoolmbti.netlify.app/<br>
-- 결과 종류: 16개 (자세한 내용은 result page -> js 폴더 data.js에 있음<br>
+- 결과 종류: 16개 (자세한 내용은 result page -> js 폴더 data.js에 있음)<br>
 
 ## Tip
 결과 페이지에서 개발자 도구를 사용하여 결과를 array 형식으로 볼 수 있습니다.<br>
