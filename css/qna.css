@@ -29,7 +29,7 @@
 }
 
 .answerList:hover, .answerList:focus{
-  background-color: white;
+  background-color: #c685ff;
   color: #ad50ff;
 }
 
