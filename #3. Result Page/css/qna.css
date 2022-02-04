@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'SDSamliphopangche_Basic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Basic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#qna {
+  display: none;
+}
+
+.qBox{
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  font-family: 'SDSamliphopangche_Basic';
+  font-size: 35px;
+  width: 80%;
+}
+
+.answerList{
+  background-color: #ad50ff;
+  color: white;
+  border-radius: 20px;
+  display: block;
+  width: 80%;
+  font-size: 20px;
+  border: 0px;
+}
+
+.answerList:hover, .answerList:focus{
+  background-color: white;
+  color: #ad50ff;
+}
+
+.status{
+  height: 3px;
+  width: 80%;
+  border-radius: 20px;
+  background-color: rgb(219, 219, 219);
+}
+
+.statusBar{
+  height: 100%;
+  border-radius: 20px;
+  background-color: #ad50ff;
+}
