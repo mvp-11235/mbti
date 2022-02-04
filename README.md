@@ -12,3 +12,7 @@
 결과 종류의 개수를 변경할 때, start.js 에서 select(6번째 줄)를 수정해야 합니다. <br>
 <br><br><br><br>
 *이 밖에 문제가 생기면 readme에 공지 예정*
+
+# star0202 수정사항
+- answerList 위에 커서를 올릴 경우 색깔이 변해 가독성이 떨어지는 상황 수정
+- 결과 화면 폰트 수정(Cafe24Dongdong)
