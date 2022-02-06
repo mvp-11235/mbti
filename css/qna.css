@@ -1,3 +1,8 @@
+/*메인화면 사진에 있는 색
+e090b9
+edb066
+7ec6cc
+*/
 @font-face {
   font-family: 'SDSamliphopangche_Basic';
   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Basic.woff') format('woff');
@@ -18,6 +23,13 @@
   width: 80%;
 }
 
+@font-face {
+  font-family: 'Cafe24SsurroundAir';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .answerList{
   background-color: #ad50ff;
   color: white;
@@ -25,12 +37,13 @@
   display: block;
   width: 80%;
   font-size: 20px;
+  font-family: 'Cafe24SsurroundAir';
   border: 0px;
 }
 
 .answerList:hover, .answerList:focus{
-  background-color: white;
-  color: #ad50ff;
+  background-color: #c685ff;
+  color: white;
 }
 
 .status{
